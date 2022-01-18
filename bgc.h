@@ -9,7 +9,7 @@
 #include "hdf5.h"
 
 // macro definitions
-#define VERSION "1.05 -- 8 June 2021"
+#define VERSION "1.06 -- 8 June 2021"
 #define MAR 'l' //character that identifies a locus in the data
 #define POPMAR 'p' //character that identifies population data 
 #define PLOIDY 2 // number of allele copies per locus, may not work when != 2
